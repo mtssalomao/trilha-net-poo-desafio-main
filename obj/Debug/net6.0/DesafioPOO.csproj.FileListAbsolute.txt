@@ -1,0 +1,4 @@
+C:\Users\mathe\Downloads\trilha-net-poo-desafio-main\trilha-net-poo-desafio-main\obj\Debug\net6.0\DesafioPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Downloads\trilha-net-poo-desafio-main\trilha-net-poo-desafio-main\obj\Debug\net6.0\DesafioPOO.AssemblyInfoInputs.cache
+C:\Users\mathe\Downloads\trilha-net-poo-desafio-main\trilha-net-poo-desafio-main\obj\Debug\net6.0\DesafioPOO.AssemblyInfo.cs
+C:\Users\mathe\Downloads\trilha-net-poo-desafio-main\trilha-net-poo-desafio-main\obj\Debug\net6.0\DesafioPOO.csproj.CoreCompileInputs.cache
